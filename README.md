@@ -1,2 +1,2 @@
 # devops
-this is the repo i am creating for to store and practice the different devops  tools.
+This is a repo i am creating for to store and practice the different devops  tools.
