@@ -1,4 +1,4 @@
-<font color="red"># devops</font>
+<bold># devops</bold>
 <hr>
 <br>
 This is a repo i am creating for to store and practice the different devops  tools.
