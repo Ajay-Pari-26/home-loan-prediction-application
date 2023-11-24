@@ -1,0 +1,6 @@
+numpy
+Flask
+gunicorn
+requests
+Werkzeug
+scikit-learn
